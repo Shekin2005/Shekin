@@ -1,93 +1,62 @@
-## Hi, I’m Shekin David Raj
-
-**Computer Science Student | Full-Stack Developer | AI & Mobile Developer**
-Wolfville, Nova Scotia, Canada
-
-I am a third-year Computer Science student at Acadia University, interested in software engineering, AI-powered applications, and community-focused digital solutions. I enjoy building mobile apps, web platforms, and machine-learning projects that solve real-world problems.
-
----
-
-## 🔧 Technical Skills
-
-**Languages:** Java, C, C++, Python, SQL, JavaScript, HTML/CSS
-**Frameworks & Tools:** React, Node.js, Flask, FastAPI, Android Studio, Git/GitHub
-**Databases:** MySQL, PostgreSQL
-**Concepts:** Data Structures, Algorithms, OOP, REST APIs, Agile, Unit Testing
-**Design Tools:** Adobe Photoshop, Illustrator, Canva
-
----
-
-## 🚀 Projects
-
-### **AI Translator (Android + Python Backend)**
-
-* Real-time speech-to-speech translator using **SeamlessM4T v2** and **PyTorch**.
-* Android client built with **Kotlin** using AudioRecord + AudioTrack.
-* Backend built with **FastAPI**, WebSockets, and cloud GPU deployment.
-* Includes speaker diarization using **pyannote.audio**.
-
-**Tech:** Kotlin, Python, PyTorch, FastAPI, WebSockets, Cloud Deployment
-
----
-
-### **Personal Portfolio Website**
-
-* Responsive portfolio built with **React** and **CSS**.
-* Hosted on **GitHub Pages** with full version control.
-
-**Tech:** React, Node.js, CSS, Git
-
----
-
-### **Wolfville Community Website**
-
-* Website promoting events, shops, and community resources.
-* Developed using HTML, CSS, JavaScript, and CMS integration.
-
-**Tech:** HTML5, CSS3, JavaScript
-
----
-
-### **Java Games (Swing / JavaFX)**
-
-* Built multiple small interactive games demonstrating OOP and GUI programming.
-* Includes event handling, state management, and basic animation.
-
-**Tech:** Java, Swing, JavaFX
-
----
-
-### **Enactus Food Sharing Web Platform (Fall 2025)**
-
-Working with the Enactus team to develop an AI-driven platform supporting students in accessing nutritious, affordable food.
-
-Key contributions:
-
-* Developing features for personalized recipes, diet plans, and meal budgeting.
-* Building an AI assistant for food-related questions using LLM APIs.
-* Helping design a system that connects students with surplus food from local vendors.
-* Supporting community sustainability and digital food security solutions.
-
-**Tech:** HTML, CSS, JavaScript, Node.js, Express, LLM API, UI/UX
-
----
-
-## 🔬 Research Interests
-
-* **AI & Workforce Automation**
-* **Machine Learning & NLP**
-* **Speech processing and real-time translation**
-
----
-
-## 🎨 Additional Skills
-
-* Graphic design using Adobe Creative Suite
-* WordPress and CMS-based website development
-* ML frameworks: TensorFlow, PyTorch, NLTK
-* Community-centered software solutions
-
----
+## Resume 
+## Hi, I’m Shekin David Raj  
+Shekin David Raj 
+  3 Acadia St, Wolfville, NS B4P 1K8 |   +1 (902) 670-3768 |   0306446d@acadiau.ca |   
+  
+Objective 
+Enthusiastic third-year Computer Science student at Acadia University seeking a co-op opportunity to apply programming, web development, and AI research skills. Passionate about software engineering, AI applications, and building solutions that create community impact. 
+  
+Education 
+Bachelor of Science in Computer Science 
+Acadia University – Wolfville, NS 
+Expected Graduation: May 2027 | Current Year: 3rd | GPA: 2.999 
+Relevant Coursework: Data Structures & Algorithms, Database Systems, Software Engineering, Operating Systems, Artificial Intelligence, Full stack. 
+  
+Technical Skills 
+•	Programming Languages: Java, C, C++, Python, SQL, JavaScript, HTML/CSS 
+•	Frameworks & Tools: React, Node.js, Flask, Android Studio, Git/GitHub 
+•	Databases: MySQL, PostgreSQL 
+•	Other: Agile Methodologies, Object-Oriented Design, REST APIs, Unit Testing 
+•	Design Tools: Adobe Photoshop, Illustrator, Canva 
+  
+Projects & Experience 
+AI Translator Project (Android + Python Backend) 
+•	Built a real-time AI-powered speech translator with Android client and FastAPI backend. 
+•	Integrated Meta’s SeamlessM4T v2 for speech-to-speech translation with PyTorch. 
+•	Implemented speaker diarization using pyannote.audio to filter host voice. 
+•	Deployed backend on a cloud GPU server, enabling secure WebSocket communication. 
+•	Skills: Android (Kotlin, AudioRecord, AudioTrack), Python, PyTorch, FastAPI, WebSocket, Cloud Deployment 
+Personal Portfolio Website (React, Node.js, CSS) 
+•	Designed and deployed a responsive portfolio site to showcase academic and personal projects. 
+•	Hosted on GitHub Pages with version control through Git. 
+Wolfville Community Website (Web Development) 
+•	Collaborated on a community-focused website highlighting local events, shops, and restaurants. 
+•	Built with HTML5, CSS3, JavaScript, and a CMS for content management. 
+Java Games Development (Java Swing/JavaFX) 
+• 	Designed and implemented simple interactive games, demonstrating object-oriented programming and GUI development. 
+Chapel Graphic Design – Acadia University 
+•	Created posters and event graphics for Manning Memorial Chapel using Adobe Creative Suite. 
+•	Collaborated with staff to design impactful visual materials for community engagement. 
+Volunteer – Enactus Food Sharing (HTML + CSS + JS, Node.js + Express, LLM API)
+fall 2025
+•	Working with the Enactus Food Sharing team to develop an AI-powered website that supports students in accessing nutritious, affordable food options.
+•	Contributing to the development of a web-based platform aimed at minimizing food waste and supporting students with access to affordable or free meals.
+•	Collaborating with a team to design a system that connects local food vendors with students, redirecting unsold food items (e.g., from outlets such as Tim Hortons) to prevent waste.
+•	Assisting in the integration of an AI-driven assistant that provides personalized diet plans, budget-friendly cooking suggestions, and guidance on food-related inquiries.
+•	Promoting sustainability and food security through innovative digital solutions.
+  
+Research Interests 
+•	AI & Automation: Explored the impact of artificial intelligence on the job market and workforce automation trends. 
+•	Machine Learning & NLP: Interested in real-time speech processing, translation, and AIdriven applications. 
+  
+Additional Skills 
+•	Graphic Design (Adobe Creative Suite) 
+•	Web Development (HTML, CSS, JavaScript, WordPress) 
+•	AI & ML Frameworks (TensorFlow, PyTorch, NLTK) 
+•	Community-oriented digital project development 
+  
+References 
+Available upon request. 
 
 ## 📫 Contact
 
@@ -96,9 +65,5 @@ Key contributions:
 **Portfolio:** Add your portfolio link here once uploaded
 **GitHub:** Add your username here
 
----
 
-## 📄 Resume
-
-Full résumé available upon request.
 
