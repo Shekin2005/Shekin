@@ -17,7 +17,7 @@ Enthusiastic third-year Computer Science student at Acadia University seeking a 
 - Other: Agile Methodologies, Object-Oriented Design, REST APIs, Unit Testing 
 - Design Tools: Adobe Photoshop, Illustrator, Canva 
   
-**Projects & Experience** 
+## **Projects & Experience** 
 **AI Translator Project**(Android + Python Backend)
 -	Built a real-time AI-powered speech translator with Android client and FastAPI backend. 
 -	Integrated Meta’s SeamlessM4T v2 for speech-to-speech translation with PyTorch. 
@@ -59,6 +59,7 @@ fall 2025
 -	Community-oriented digital project development 
   
 **References**
+
 Available upon request. 
 
 ## Contact
